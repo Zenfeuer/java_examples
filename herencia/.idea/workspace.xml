@@ -2,10 +2,13 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="087c9803-27c9-4038-a54d-845474a4fb7e" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/../polimorfismo/src/Circulo.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../polimorfismo/src/Cuadrado.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../polimorfismo/src/Figura.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../polimorfismo/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../polimorfismo/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../polimorfismo/out/production/polimorfismo/Circulo.class" beforeDir="false" afterPath="$PROJECT_DIR$/../polimorfismo/out/production/polimorfismo/Circulo.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../polimorfismo/out/production/polimorfismo/Cuadrado.class" beforeDir="false" afterPath="$PROJECT_DIR$/../polimorfismo/out/production/polimorfismo/Cuadrado.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../polimorfismo/out/production/polimorfismo/Figura.class" beforeDir="false" afterPath="$PROJECT_DIR$/../polimorfismo/out/production/polimorfismo/Figura.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../polimorfismo/src/Circulo.java" beforeDir="false" afterPath="$PROJECT_DIR$/../polimorfismo/src/Circulo.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../polimorfismo/src/Cuadrado.java" beforeDir="false" afterPath="$PROJECT_DIR$/../polimorfismo/src/Cuadrado.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../polimorfismo/src/Figura.java" beforeDir="false" afterPath="$PROJECT_DIR$/../polimorfismo/src/Figura.java" afterDir="false" />
     </list>
     <ignored path="$PROJECT_DIR$/out/" />
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
@@ -68,11 +71,11 @@
       </list>
     </option>
   </component>
-  <component name="ProjectFrameBounds" extendedState="6">
-    <option name="x" value="214" />
-    <option name="y" value="-6" />
-    <option name="width" value="1400" />
-    <option name="height" value="1000" />
+  <component name="ProjectFrameBounds" extendedState="7">
+    <option name="x" value="267" />
+    <option name="y" value="-8" />
+    <option name="width" value="1750" />
+    <option name="height" value="1250" />
   </component>
   <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
   <component name="ProjectView">
@@ -131,15 +134,14 @@
     <servers />
   </component>
   <component name="ToolWindowManager">
-    <frame x="-8" y="-8" width="1936" height="1056" extended-state="6" />
-    <editor active="true" />
+    <frame x="-7" y="-7" width="1550" height="838" extended-state="7" />
     <layout>
       <window_info id="Image Layers" />
       <window_info id="Designer" />
       <window_info id="UI Designer" />
       <window_info id="Capture Tool" />
       <window_info id="Favorites" side_tool="true" />
-      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.17857143" />
+      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.22483222" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
       <window_info anchor="bottom" id="Version Control" />
       <window_info anchor="bottom" id="Terminal" />
@@ -147,7 +149,7 @@
       <window_info anchor="bottom" id="Messages" />
       <window_info anchor="bottom" id="Message" order="0" />
       <window_info anchor="bottom" id="Find" order="1" />
-      <window_info active="true" anchor="bottom" id="Run" order="2" visible="true" weight="0.32936078" />
+      <window_info anchor="bottom" id="Run" order="2" weight="0.4075067" />
       <window_info anchor="bottom" id="Debug" order="3" weight="0.4" />
       <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
       <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
